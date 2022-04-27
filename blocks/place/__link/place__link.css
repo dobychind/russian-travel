@@ -4,3 +4,7 @@
   line-height: 22px;
   margin-bottom: 48px;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+}
