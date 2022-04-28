@@ -8,10 +8,15 @@
   margin-top: 0;
 }
 
-@media screen and (max-width: 568px){
-  .place__paragraph{
+@media screen and (max-width: 768px) {
+  .place__paragraph {
     font-size: 16px;
     line-height: 26px;
+  }  
+}
+
+@media screen and (max-width: 568px){
+  .place__paragraph{
     margin-left: 16px;
     margin-right: 16px;
   }
